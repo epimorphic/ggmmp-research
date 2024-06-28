@@ -1,0 +1,1 @@
+Window console scripts for [geoguessr-map-maker-plus](https://github.com/epimorphic/geoguessr-map-maker-plus), to research optimal program behavior.
